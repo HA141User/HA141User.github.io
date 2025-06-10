@@ -6,3 +6,9 @@ tags : [Depth-First Search (DFS)]
 ---
 
 # Depth-First Search (DFS)
+**Kelompok 8**
+
+- Bismillah Ghaniyyu Putra Darmin
+- Maynova Christin Gabryela Simamora
+- Nabila Salsabila
+- Moh. Ichwanul Muslimin Mayang
